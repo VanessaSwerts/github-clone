@@ -35,3 +35,20 @@ export const RightSide = styled.div`
     }
 
 `;
+
+export const Repos = styled.div`
+    margin-top: var(--verticalPadding);
+
+    > h2 {
+        font-size: 16px;
+        font-weight: normal;
+    }
+
+    > div {
+        margin-top: 8px;
+        
+        display: grid;
+        grid-gap: 16px;
+        grid-template-columns: 1fr;
+    }
+`;
