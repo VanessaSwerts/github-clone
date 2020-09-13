@@ -1,7 +1,5 @@
-import { mainModule } from 'process';
-import React from 'react';
-
-import { Container, Main, LeftSide, RightSide, Repos } from './styles';
+import React from 'react'
+import { Container, Main, LeftSide, RightSide, Repos } from './styles'
 
 import ProfileData from '../../components/ProfileData'
 import RepoCard from '../../components/RepoCard'
@@ -28,17 +26,17 @@ const Profile: React.FC = () => {
           <h2>Random Repos</h2>
 
           <div>
-            {[1, 2, 3, 4, 5, 6].map(n => {
+            {[1, 2, 3, 4, 5, 6].map(n => (
               <RepoCard
                 key={n}
                 username={'VanessaSwerts'}
                 reponame={'github-clone'}
                 description={'Clone UI from GitHub'}
                 language={n % 3 === 0 ? 'JavaScript' : 'TypeScript'}
-                starts={8}
+                stars={8}
                 forks={4}
               />
-            })}
+            ))}
           </div>
         </Repos>
       </RightSide>
