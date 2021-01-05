@@ -1,11 +1,11 @@
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vanessaswerts/github-clone?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/VanessaSwerts/github-clone?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/vanessaswerts/github-clone">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/VanessaSwerts/github-clone">
   
-  <a href="https://github.com/vanessaswerts/github-clone/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vanessaswerts/github-clone">
+  <a href="https://github.com/VanessaSwerts/github-clone/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/VanessaSwerts/github-clone">
   </a>
    
 </p>
